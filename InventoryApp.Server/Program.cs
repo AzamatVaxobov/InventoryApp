@@ -17,6 +17,7 @@ namespace InventoryApp.Server
             builder.Services.AddSwaggerGen();
 
             builder.Services.ConfigureDatabase(builder.Configuration);
+            builder.Services.AddApplicationServices();
 
             var app = builder.Build();
 
