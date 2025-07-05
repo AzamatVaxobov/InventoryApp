@@ -14,7 +14,7 @@ The Repository implements unit tests for all critical layers (Service and Contro
 ## Application Information
 
 ### **Tech Stack**
-- **Programming Language**: C# (.NET 6)
+- **Programming Language**: C# (.NET 8)
 - **Framework**: ASP.NET Core Web API
 - **Database**: MySQL (via EF Core)
 - **Unit Testing**: xUnit and Moq for unit testing
