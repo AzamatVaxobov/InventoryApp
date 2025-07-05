@@ -28,7 +28,7 @@ The Repository implements unit tests for all critical layers (Service and Contro
 It was manageable with ChatGPT's assistance. ChatGPT provided detailed explanations and guided the architecture to completion smoothly. The integration of various layers was clear and systematic.
 
 ### How long did the task take you to complete?
-Including initial setup, debugging, and testing, the task took approximately **[INSERT TIME] hours**. Most of the time was spent on debugging specific errors and setting up proper connections.
+Including initial setup, debugging, and testing, the task took approximately **5 hours**. Most of the time was spent on debugging specific errors and setting up proper connections.
 
 ### Was the code ready to run after generation? What did you have to change to make it usable?
 The generated code was solid and helped establish a solid foundation for the project. However, minor adjustments were required:
